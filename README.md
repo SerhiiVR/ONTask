@@ -1,4 +1,6 @@
 <p align="center">
+ 
+ Docker : docker-compose up<br>
  GET: http://localhost:3000/api/books?limit=60&start=0<br>
  POST: http://localhost:3000/api/books<br>
  Swagger: http://localhost:3000/api/<br>
