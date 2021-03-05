@@ -1,7 +1,7 @@
 <p align="center">
- GET: http://localhost:3000/api/books?limit=60&start=0
- POST: http://localhost:3000/api/books
- Swagger: http://localhost:3000/api/
+ GET: http://localhost:3000/api/books?limit=60&start=0<br>
+ POST: http://localhost:3000/api/books<br>
+ Swagger: http://localhost:3000/api/<br>
 
  JSON {"name" : "BookName"} or [{"name" : "BookName1"},{"name" : "BookName2"},{"name" : "BookName3"}]
 </p>
