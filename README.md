@@ -3,7 +3,7 @@
  POST: http://localhost:3000/api/books<br>
  Swagger: http://localhost:3000/api/<br>
 
- JSON {"name" : "BookName"} or [{"name" : "BookName1"},{"name" : "BookName2"},{"name" : "BookName3"}]
+ JSON : {"name" : "BookName"} or [{"name" : "BookName1"},{"name" : "BookName2"},{"name" : "BookName3"}]
 </p>
 
 
